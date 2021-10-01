@@ -1,0 +1,23 @@
+body{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+section{
+    background-color: #CAE694;
+    padding: 15px;
+    color: #844399;
+}
+h1{
+    background-color: #D193E6;
+    padding: 15px;
+    color: #CAE694; 
+}
+hr{
+    margin-top: 30px;
+    color: black;
+
+}
+footer p{
+    padding-top: 20px;
+    text-align: center;
+}
